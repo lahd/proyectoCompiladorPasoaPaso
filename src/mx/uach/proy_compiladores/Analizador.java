@@ -14,7 +14,6 @@ import java.io.*;
  * </ul>
  * 
  * @author Luis Alberto Hernández Domínguez
- * @author Julio Alberto Alvarez Navarrete
  * @version 1.0
  * @since 16/03/2015
  */
