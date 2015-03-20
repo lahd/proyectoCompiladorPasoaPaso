@@ -8,7 +8,6 @@ import java.util.ArrayList;
  * Se encarga de que tenga los tipos de caracter declarados en el token
  *
  * @author Luis Alberto Hernández Domínguez
- * @author Julio Alberto Alvarez Navarrete
  * @version 1.0
  * @since 16/03/2015
  */
